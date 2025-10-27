@@ -93,3 +93,4 @@ features:
   load_balancer: enabled
 ## License
 MIT License
+## FAQ
