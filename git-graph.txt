@@ -1,0 +1,28 @@
+* f99aa04 (HEAD -> main, origin/main, origin/HEAD) docs: Add changelog
+* 821a143  Updated Changelog - Creation of 2+ tags
+| * 60198fa (feature/another-feature)  Updated Changelog - Reset and Revert Usage
+| * 3d7cc17 git revert HEAD
+| * b862da7 Bad Commit
+| * ade22ab Updated Changelog - Rebase Usage
+| * 69d8985 (origin/feature/another-feature) feat: Add test feature
+|/  
+* 8d0dea9 (tag: v1.1.0, tag: v1.0.0) docs: Update README
+* efb622f Updated Changelog : Used cherry-pick 1 time
+* 7bf6799 docs: Add FAQ section
+| * 874c57e (feature/new-feature)  Updated changelog : documented stash usage
+| * a49420b Updated changelog : documented fetch and pull usage
+| * a2e20d4 (origin/feature/new-feature) feat: Add new feature
+|/  
+*   86e3565 Conflicts Resloved Again
+|\  
+| * d3dd9b2 (instructor/conflict-simulator, conflict-simulator) updating conflict-simulator
+* | 958f926 checkpoint2 added
+* |   925c78d merge: Resolve all conflicts between main and dev branches
+|\ \  
+| * | 02011a5 (instructor/dev, dev) updating dev
+| |/  
+* | 9f48954 checkpoint1 added
+* | 0312c6f (instructor/main, instructor/HEAD) updating main
+* | fadfd24 Revise README for DevOps Simulator project
+|/  
+* ae630eb Initial commit
